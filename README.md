@@ -4,7 +4,8 @@
 This project is a **Retrieval-Augmented Generation (RAG) chatbot** built using **n8n**.
 It acts as a **Learner Support Executive**, answering learner questions accurately using a provided **FAQ knowledge base**.
 
-screenshots/n8n-workflow.png
+![Alt text](screenshots/n8n-workflow.png)
+
 
 The chatbot retrieves relevant information from a **Pinecone vector database** and generates responses using a **large language model**, ensuring:
 - No hallucinations
